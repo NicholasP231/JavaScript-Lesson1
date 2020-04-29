@@ -1,2 +1,2 @@
-//Let's Fight//
-/*Ryu Won The Game */
+// Line One: Ruy Won The Game//
+/* Line Two: Ken Won The Match */
