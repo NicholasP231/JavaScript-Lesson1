@@ -1,2 +1,1 @@
-// In-line comment
-/* Multi-line comment */
+Lesson 1
